@@ -1,5 +1,3 @@
 # test 
 
-this is *a test*
-
-boogie
+this is *a test* of https://github.com/flakestry/flakestry-publish
